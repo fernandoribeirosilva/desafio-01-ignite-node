@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "9ba9e10a-0887-4010-a144-ec1d09f7b7d2",
+      "name": "John Doe atualizado",
+      "email": "johnDoe@gmail.com"
+    },
+    {
+      "id": "5f63ba80-60d5-4e88-92f3-166afd718719",
+      "name": "John Doe 2",
+      "email": "johnDoe2@gmail.com"
+    },
+    {
+      "id": "3f09e083-12a3-4c93-94fa-6a27032d7eaf",
+      "name": "fernando",
+      "email": "fernando@gmail.com"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "64c6ce18-5e6c-4859-a705-fe77941a08fa",
+      "completed_at": "2023-03-10T19:23:09.371Z"
+    }
+  ]
+}
